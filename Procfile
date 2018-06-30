@@ -1,1 +1,1 @@
-web: gunicorn djangogirlsapp.wsgi
+web: gunicorn djangogirls.wsgi
